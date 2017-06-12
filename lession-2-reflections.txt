@@ -1,3 +1,4 @@
 initializing the git repository is the way to making any folder into a repository, without it our repo is not really made, and we need a repository to really do any git with it 
 
-tester 
+the main value it offers can be said to be managing the actual commit we wanna make, maybe we change our mind to add/remove more files to a commit as we go on.
+
