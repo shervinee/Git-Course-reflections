@@ -1,1 +1,7 @@
 First use of remote repositories are when multiple developers are working on the same project. They check other's work add and make the final project a real team work
+
+one of the main reasons of pulling manually can be avoiding any possible conflicts that our local and remote version might cause after merging
+
+branches are always for a single repo (when we wanna get creative)
+cloning is for localizing a remote into our own machine
+forking is very similar to cloning but on GitHub servers which also gives notifications to the original author 
