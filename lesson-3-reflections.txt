@@ -7,3 +7,6 @@ cloning is for localizing a remote into our own machine
 forking is very similar to cloning but on GitHub servers which also gives notifications to the original author
 
 having the last update from remote not only help us to be aware of the flow of project at mater branch, but also would help us comparing our own branch at remote master's
+
+if git and gitHub or any other version control cannot be used; for working collaboratively, sending code through email after each update can be the only option.
+even in that case sending commits, checking for differences between files and everything else would be much much more expensive
