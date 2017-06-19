@@ -4,4 +4,6 @@ one of the main reasons of pulling manually can be avoiding any possible conflic
 
 branches are always for a single repo (when we wanna get creative)
 cloning is for localizing a remote into our own machine
-forking is very similar to cloning but on GitHub servers which also gives notifications to the original author 
+forking is very similar to cloning but on GitHub servers which also gives notifications to the original author
+
+having the last update from remote not only help us to be aware of the flow of project at mater branch, but also would help us comparing our own branch at remote master's
