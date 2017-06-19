@@ -10,3 +10,6 @@ having the last update from remote not only help us to be aware of the flow of p
 
 if git and gitHub or any other version control cannot be used; for working collaboratively, sending code through email after each update can be the only option.
 even in that case sending commits, checking for differences between files and everything else would be much much more expensive
+
+merging a separate branch instead of directly pushing into master won't allow others to re-check the code and see if it really is going to help by being added to master or not.
+Others could be us also when we might rethink adding a feature wouldn't do much to our project.
